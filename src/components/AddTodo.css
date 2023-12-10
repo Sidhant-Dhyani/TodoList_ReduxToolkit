@@ -1,0 +1,14 @@
+
+.add-todo-container {
+    margin-bottom: 20px;
+  }
+  
+  .add-todo-input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .add-todo-button {
+    padding: 8px;
+    cursor: pointer;
+  }
